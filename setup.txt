@@ -1,0 +1,11 @@
+~$ pip install virtualenvwrapper-win    --install venv on mechine
+~$ virtualenv venv			            --create a virtual env
+~$ cd venv/scripts			            --go to Scripts dir
+~$ activate				                --activate the venv
+~$ cd..					                --back to prev dir
+~$ cd..					                --back to prev dir (portal_v1 directory)
+
+~$ pip install -r requirements.txt
+
+~$ pip list
+
